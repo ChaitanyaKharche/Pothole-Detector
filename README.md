@@ -1,14 +1,6 @@
 # Pothole Detection System (Real-time Image Classification)
 
-Detecting potholes on roads using live video feed processed through a CNN model. This is (now) a realtime system. The model was trained on my laptop's GPU (NVIDIA GTX 1650 4GB). Note that the model does not tell the number of potholes in the images. That's something for the future and I'll use YOLO (You Only Look Once architecture) OR Mask-RCNN for that.
-
-## Contents Of This Readme
-
-1. [What's In The Repo](https://github.com/anantSinghCross/pothole-detection-system-using-convolution-neural-networks#whats-in-the-repo)
-2. [Check Your Libraries](https://github.com/anantSinghCross/pothole-detection-system-using-convolution-neural-networks#check-your-libraries)
-3. [Working of Files in *Real-time Files* Folder](https://github.com/anantSinghCross/pothole-detection-system-using-convolution-neural-networks#working-of-files-in-real-time-files-folder)
-4. [Future Work](https://github.com/anantSinghCross/pothole-detection-system-using-convolution-neural-networks#future-work)
-5. [Note](https://github.com/anantSinghCross/pothole-detection-system-using-convolution-neural-networks#note)
+Detecting potholes on roads using live video feed processed through a CNN model. This is (now) a realtime system. The model was trained on my laptop's GPU (NVIDIA GTX 1660ti 4GB). Note that the model does not tell the number of potholes in the images. That's something for the future and I'll use YOLO (You Only Look Once architecture) OR Mask-RCNN for that.
 
 ## What's In The Repo
 
